@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FamousPhotographs>
+
+	<Photograph>
+		<Title>Phan Thi,Kim Phuc</Title>
+		<Photographer>Nick Ut</Photographer>
+		<Type>Silver print</Type>
+		<Place>West Vietnam</Place>
+		<Year>1972</Year>
+		<Subject>War,Propaganda,Humanism,Death,Politics</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>New York, Night View</Title>
+		<Photographer>Berenice Abbott</Photographer>
+		<Type>Silver print</Type>
+		<Place>New York, USA</Place>
+		<Dimensions>34,1x27cm</Dimensions>
+		<Year>1932</Year>
+		<Subject>Monochrome, Abstraction, Topography, Architectural, City View, Modernity</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>The Liberation of Buchenwald</Title>
+		<Photographer>Margaret Bourke-White</Photographer>
+		<Type>Silver Print</Type>
+		<Place>Buchenwald,Germany</Place>
+		<Year>1945</Year>
+		<Subject>War, Documentary, Humanism, Death</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>Cookie,on Tin Pan Alley</Title>
+		<Photographer>Nan Goldin</Photographer>
+		<Type>Cibacrome Print</Type>
+		<Place>New York,USA</Place>
+		<Year>1983</Year>
+		<Subject>Color, Ethnographic, Art, Society, People</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>Earthrise</Title>
+		<Photographer>William Anders</Photographer>
+		<Type>Color Ectacrome</Type>
+		<Place>NASA,USA</Place>
+		<Year>1968</Year>
+		<Subject>Color, Documentary, Humanism, Atmospheric, Nature</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>Kissing at Hotel de Ville</Title>
+		<Photographer>Bee Gees</Photographer>
+		<Type>Silver Print</Type>
+		<Place>Paris,France</Place>
+		<Year>1950</Year>
+		<Subject>Direct photography, Portrait, Glamour, Fictional, Love, Gelatine Silver Print</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>Parade, Hoboken, New Jersey</Title>
+		<Photographer>Robert Frank</Photographer>
+		<Type>Gelatine Silver Print</Type>
+		<Place>New Jersey,USA</Place>
+		<Year>1955</Year>
+		<Subject>Direct photography, Ethnographic, Documentary, People, Gelatine Silver Print</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>USA,California</Title>
+		<Photographer>Elliott Erwitt</Photographer>
+		<Type>Silver Print</Type>
+		<Place>California,USA</Place>
+		<Year>1955</Year>
+		<Subject>View, Glamour, Beauty, Love, People</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>Kings of Hollywood</Title>
+		<Photographer>Slim Aarons</Photographer>
+		<Type>Silver Print</Type>
+		<Place>USA</Place>
+		<Year>1957</Year>
+		<Subject>Portrait, Color, Glamour, Paparazzi, Iconography, Famous, Gelatine Silver Print</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>Che Guevara</Title>
+		<Photographer>Alberto Korda</Photographer>
+		<Type>Silver Print</Type>
+		<Place>Havana,Cuba</Place>
+		<Year>1960</Year>
+		<Subject>Portrait, Propaganda, Documentary, Iconography, Politics</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>Malcolm X</Title>
+		<Photographer>Eve Arnold</Photographer>
+		<Type>Silver Print</Type>
+		<Place>USA</Place>
+		<Year>1961</Year>
+		<Subject>Portrait, Society, Iconography, Politics, Power, Gelatine Silver Print</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>Jack Ruby Kills,Lee Harvey Oswald</Title>
+		<Photographer>Robert H. Jackson</Photographer>
+		<Type>Gelatine Silver Print</Type>
+		<Location>Dallas,Texas</Location>
+		<Year>1963</Year>
+		<Subject>Death, Iconography, Politics, Crime</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>Under the Roses</Title>
+		<Photographer>Gregory Crewdson</Photographer>
+		<Type>Digital Chromogenic Print</Type>
+		<Dimensions>73,7x111,8cm</Dimensions>
+		<Place>USA</Place>
+		<Year>2014</Year>
+		<Subject>Color, Art, Conceptual, Consumption Culture, Modernity, Family</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>Algiers, Louisiana</Title>
+		<Photographer>William Eggleston</Photographer>
+		<Type>Colorful Print</Type>
+		<Place>New Orleans, LA, USA</Place>
+		<Year>1972</Year>
+		<Subject>Portrait, Color, Art, Society, Architectural, Animals, Modernity</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>A Sunny Sunday Afternoon, Whitby, England</Title>
+		<Photographer>Ian Berry</Photographer>
+		<Type>Gelatine Silver Print</Type>
+		<Place>Whitby,UK</Place>
+		<Year>1974</Year>
+		<Subject>View, Iconography, Documentary, Society, Gelatine Silver Print</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>Self-portrait dressed as woman</Title>
+		<Photographer>Andy Warhol</Photographer>
+		<Type>Polaroit</Type>
+		<Place>Kunsthalle Hamburg, Germany</Place>
+		<Year>1981</Year>
+		<Subject>Self-portrait, Art, Iconography, Famous, Polaroit</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>Anonymous #96</Title>
+		<Photographer>Cindy Sherman</Photographer>
+		<Type>Chromogenic Colorful Print</Type>
+		<Dimensions>61x121,9cm</Dimensions>
+		<Place>USA</Place>
+		<Year>1981</Year>
+		<Subject>Color, Self-portrait, Art, Conceptual, Performance, Iconography</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>New Bringhton, England</Title>
+		<Photographer>Martin Parr</Photographer>
+		<Type>Chromogenic Color Print</Type>
+		<Location>New Beinghton, UK</Location>
+		<Year>1983</Year>
+		<Subject>Documentary, Society, Ordinary</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>Piss Christ</Title>
+		<Photographer>Andress Serrano</Photographer>
+		<Type>Cibacrome Colored Print</Type>
+		<Place>USA</Place>
+		<Year>1987</Year>
+		<Subject>Portrait, Color, Still Life, Avant-garde, Art, Conceptual, Religion</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>Louvre 1, Paris 1989</Title>
+		<Photographer>Thomas Struth</Photographer>
+		<Type>Chromogenic Print</Type>
+		<Dimensions>183x234cm</Dimensions>
+		<Place>Louvre Museum, Paris, France</Place>
+		<Year>1989</Year>
+		<Subject>Portrait, Documentary, Art, Society, People</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>Lutz and Alex sitting in the trees</Title>
+		<Photographer>Wolfgang Tillmans</Photographer>
+		<Type>Comogenic Colorful Print</Type>
+		<Place>USA</Place>
+		<Year>1992</Year>
+		<Subject>Portrait, Color, Nude, Art, Society, Fashion, Youth Culture</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>Work Towards World Peace</Title>
+		<Photographer>Gillian Wearing</Photographer>
+		<Type>C-type printing mounted on aluminum</Type>
+		<Dimensions>44,5x29,7cm</Dimensions>
+		<Place>London, UK</Place>
+		<Year>1992</Year>
+		<Subject>Street Photography, Documentary, Art, Conceptual, Politics</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>Hilton Head Island</Title>
+		<Photographer>Rıneke Dijkstra</Photographer>
+		<Type>Chromogenic Print</Type>
+		<Dimensions>117x94cm</Dimensions>
+		<Place>S.C., USA</Place>
+		<Year>1992</Year>
+		<Subject>Portrait, View, Color, People, Youth Culture</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>BALTIC Sea</Title>
+		<Photographer>Hiroşi Sugimoto</Photographer>
+		<Type>Gelantine Silver Print</Type>
+		<Place>North Europe</Place>
+		<Year>1996</Year>
+		<Subject>Monochrome, View, Atmospheric, Nature</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>Flower Rondeau</Title>
+		<Photographer>Nobuyoşi Araki</Photographer>
+		<Type>RP-PRO Crystal Print</Type>
+		<Place>USA</Place>
+		<Year>1997</Year>
+		<Subject>Color, Still Life, Art, Nature, Death</Subject>
+	</Photograph>
+
+	<Photograph>
+		<Title>Overpass</Title>
+		<Photographer>Jeff Wall</Photographer>
+		<Type>Sliding lightbox</Type>
+		<Dimensions>214x237,5cm</Dimensions>
+		<Place>USA</Place>
+		<Year>2001</Year>
+		<Subject>Street Photography, Color, Art, Society, Conceptual, Consumption culture</Subject>
+	</Photograph>
+</FamousPhotographs>
