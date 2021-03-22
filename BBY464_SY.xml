@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Catalog>
+<FamousPhotographs>
 
 	<Photograph>
 		<Title>Phan Thi,Kim Phuc</Title>
@@ -242,4 +242,4 @@
 		<Year>2001</Year>
 		<Subject>Street Photography, Color, Art, Society, Conceptual, Consumption culture</Subject>
 	</Photograph>
-</Catalog>
+</FamousPhotographs>
